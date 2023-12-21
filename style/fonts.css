@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "dm-sans-bold";
+    src: url('../fonts/dmsans/DMSans_18pt-Bold.ttf');
+}
+
+@font-face {
+    font-family: "mulish-regular";
+    src: url(../fonts/mulish/Mulish-Regular.ttf);
+}
